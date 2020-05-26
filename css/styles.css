@@ -69,6 +69,11 @@ header
     display:none;
 }
 
+#rondCoeur
+{
+    display: none;
+}
+
 footer
 {
     width: 80%;
